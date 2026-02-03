@@ -1,4 +1,4 @@
-# Guía profesional de Back-end con Git y GitHub
+# Guía para Back-end con Git y GitHub
 
 Documento académico y técnico diseñado como material de referencia completo para estudiantes de desarrollo Back-end. Este texto cubre fundamentos, arquitectura, seguridad, bases de datos, APIs, testing y el uso profesional de GitHub en proyectos reales.
 
